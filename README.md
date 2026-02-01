@@ -1,4 +1,4 @@
-🚦 Simulation de Feu Tricolore - Ville de Thiès  - gorupe 16 
+🚦 Simulation de Feu Tricolore - Ville de Thiès  - groupe 16 
 
 # Présentation du Projet
 Ce projet consiste en une application Python simulant la gestion automatisée et manuelle d'un carrefour routier à Thiès. 
